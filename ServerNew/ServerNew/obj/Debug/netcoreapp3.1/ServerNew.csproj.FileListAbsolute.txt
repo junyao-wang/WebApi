@@ -1,0 +1,11 @@
+C:\Users\俊垚\source\repos\ServerNew\ServerNew\bin\Debug\netcoreapp3.1\ServerNew.exe
+C:\Users\俊垚\source\repos\ServerNew\ServerNew\bin\Debug\netcoreapp3.1\ServerNew.deps.json
+C:\Users\俊垚\source\repos\ServerNew\ServerNew\bin\Debug\netcoreapp3.1\ServerNew.runtimeconfig.json
+C:\Users\俊垚\source\repos\ServerNew\ServerNew\bin\Debug\netcoreapp3.1\ServerNew.runtimeconfig.dev.json
+C:\Users\俊垚\source\repos\ServerNew\ServerNew\bin\Debug\netcoreapp3.1\ServerNew.dll
+C:\Users\俊垚\source\repos\ServerNew\ServerNew\bin\Debug\netcoreapp3.1\ServerNew.pdb
+C:\Users\俊垚\source\repos\ServerNew\ServerNew\obj\Debug\netcoreapp3.1\ServerNew.csprojAssemblyReference.cache
+C:\Users\俊垚\source\repos\ServerNew\ServerNew\obj\Debug\netcoreapp3.1\ServerNew.AssemblyInfoInputs.cache
+C:\Users\俊垚\source\repos\ServerNew\ServerNew\obj\Debug\netcoreapp3.1\ServerNew.AssemblyInfo.cs
+C:\Users\俊垚\source\repos\ServerNew\ServerNew\obj\Debug\netcoreapp3.1\ServerNew.dll
+C:\Users\俊垚\source\repos\ServerNew\ServerNew\obj\Debug\netcoreapp3.1\ServerNew.pdb
