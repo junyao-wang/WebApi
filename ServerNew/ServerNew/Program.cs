@@ -112,5 +112,6 @@ namespace Server
         public string Cre { get; set; }
         public string Sex{ get; set; }
         public string Age{ get; set; }
+        public string Fast{ get; set; }
     }
 }
