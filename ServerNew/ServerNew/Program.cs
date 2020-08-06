@@ -109,8 +109,5 @@ namespace Server
     {
         public string Key { get; set; }
         public string Na { get; set; }
-        public string Cre { get; set; }
-        public string Sex{ get; set; }
-        public string Age{ get; set; }
     }
 }
