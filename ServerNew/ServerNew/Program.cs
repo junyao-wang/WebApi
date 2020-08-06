@@ -110,5 +110,6 @@ namespace Server
         public string Key { get; set; }
         public string Na { get; set; }
         public string Age { get; set; }
+        public string Name { get; set; }
     }
 }
