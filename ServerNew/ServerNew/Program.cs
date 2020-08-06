@@ -108,6 +108,6 @@ namespace Server
     public class GitTest
     {
         public string Key { get; set; }
-        public string Whyy { get; set; }
+        public string Whyyyyy { get; set; }
     }
 }
